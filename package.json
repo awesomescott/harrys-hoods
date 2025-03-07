@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.16.0",
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.6.7",
     "firebase": "8.10.1",
