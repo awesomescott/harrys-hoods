@@ -16,7 +16,7 @@ const StripeCheckoutButton = ({ clearCart, price }) => {
                 token: token
             },
             method: 'post',
-            url: 'payment',
+            url: '/payment',
         })
         .then(() => {
             alert('Thank you for shopping at Harry\'s Hoods! Your test payment was successful.');
