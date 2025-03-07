@@ -54,7 +54,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.1.0", "@babel/core@^7.12.3", "@babel/core@^7.16.0", "@babel/core@^7.23.9", "@babel/core@^7.7.5", "@babel/core@^7.8.4":
+"@babel/core@^7.1.0", "@babel/core@^7.12.3", "@babel/core@^7.16.0", "@babel/core@^7.7.5", "@babel/core@^7.8.4":
   version "7.26.9"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.26.9.tgz#71838542a4b1e49dfed353d7acbc6eb89f4a76f2"
   dependencies:
@@ -845,7 +845,7 @@
     "@babel/helper-create-regexp-features-plugin" "^7.25.9"
     "@babel/helper-plugin-utils" "^7.25.9"
 
-"@babel/preset-env@^7.12.1", "@babel/preset-env@^7.16.4", "@babel/preset-env@^7.23.9", "@babel/preset-env@^7.8.4":
+"@babel/preset-env@^7.12.1", "@babel/preset-env@^7.16.4", "@babel/preset-env@^7.8.4":
   version "7.26.9"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.26.9.tgz#2ec64e903d0efe743699f77a10bdf7955c2123c3"
   dependencies:
@@ -927,7 +927,7 @@
     "@babel/types" "^7.4.4"
     esutils "^2.0.2"
 
-"@babel/preset-react@^7.12.5", "@babel/preset-react@^7.16.0", "@babel/preset-react@^7.23.3":
+"@babel/preset-react@^7.12.5", "@babel/preset-react@^7.16.0":
   version "7.26.3"
   resolved "https://registry.yarnpkg.com/@babel/preset-react/-/preset-react-7.26.3.tgz#7c5e028d623b4683c1f83a0bd4713b9100560caa"
   dependencies:
@@ -7453,7 +7453,7 @@ find-up@^6.0.0, find-up@^6.3.0:
     locate-path "^7.1.0"
     path-exists "^5.0.0"
 
-firebase@^8.10.1:
+firebase@8.10.1:
   version "8.10.1"
   resolved "https://registry.yarnpkg.com/firebase/-/firebase-8.10.1.tgz#4915b47f2905c56b905a232dbd109c3c04a8fa8f"
   dependencies:
@@ -14352,9 +14352,9 @@ strip-outer@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/strip-outer/-/strip-outer-2.0.0.tgz#c45c724ed9b1ff6be5f660503791404f4714084b"
 
-stripe@^17.7.0:
-  version "17.7.0"
-  resolved "https://registry.yarnpkg.com/stripe/-/stripe-17.7.0.tgz#7816be2559e6f58bf4c005758fe20be78cdbf995"
+stripe@^14.19.0:
+  version "14.25.0"
+  resolved "https://registry.yarnpkg.com/stripe/-/stripe-14.25.0.tgz#65924510465924d2688a2b4d7f9cbfd8548cf9b9"
   dependencies:
     "@types/node" ">=8.1.0"
     qs "^6.11.0"
